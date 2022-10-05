@@ -39,7 +39,10 @@ button {
 .images{
 
 }
-
+.image-descriptions{
+    font-size: small;
+    color: gray;
+}
 .section-2{
 
 }
