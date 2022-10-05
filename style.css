@@ -1,9 +1,17 @@
 body {
     font-family:Arial, Helvetica, sans-serif;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; }
+
+.header {
+    display: flex;
+    flex: row;
 }
-.hero-section{
+
+.header-logo{
+    padding: 16px;
+}
+.hero-section {
     background-color:#1f2937;
     color: #f9faf8;
     display: flex;
