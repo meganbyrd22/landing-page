@@ -32,8 +32,9 @@ button {
 
 }
 
-.section-1{
-
+.section-1-header{
+    font-size: 36px;
+    font-weight: 800; 
 }
 
 .images{
@@ -43,10 +44,18 @@ button {
     font-size: small;
     color: gray;
 }
-.section-2{
-
+.quote {
+    background-color:#e5e7eb;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1f2937; 
 }
-
+.quote-signature{
+    font-size: 32px;
+    font-weight: 700;
+    background-color: #e5e7eb;
+}
 .section-3{
 
 }
