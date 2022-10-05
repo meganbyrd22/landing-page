@@ -1,5 +1,8 @@
 body {
-    font-family: #f9faf8
+    font-family:Arial, Helvetica, sans-serif;
+}
+.hero-section{
+
 }
 
 .header {
@@ -30,5 +33,5 @@ body {
 }
 
 .footer{
-    
+
 }
