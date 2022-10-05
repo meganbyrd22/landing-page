@@ -3,13 +3,16 @@ body {
     display: flex;
     flex-direction: column; }
 
-.header {
+header {
+    background-color: #1f2937;
+    color:#e5e7eb;
     display: flex;
     flex: row;
+    height: 200px;
 }
 
 .header-logo{
-    padding: 16px;
+    padding: 12px;
 }
 .hero-section {
     background-color:#1f2937;
