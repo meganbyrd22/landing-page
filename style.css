@@ -8,10 +8,15 @@ body {
 button {
     background-color: #3882f6;
 }
-.header {
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 800;
 
 }
 .header-links{
+    font-size: 18px;
+    color: #e5e7eb;
 
 }
 
