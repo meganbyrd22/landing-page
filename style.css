@@ -8,9 +8,9 @@ header {
     color:#e5e7eb;
     display: flex;
     flex: row;
+    justify-content: space-between;
     height: 200px;
 }
-
 .header-logo{
     padding: 12px;
 }
@@ -32,6 +32,7 @@ button {
     font-size: 24px;
     color: #f9faf8;
     font-weight: 800;
+    display: flex;
 
 }
 .header-links {
@@ -39,7 +40,7 @@ button {
     color: #e5e7eb;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: space-around;
 
 }
 #top-section-image{
