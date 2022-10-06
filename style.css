@@ -40,8 +40,10 @@ button {
     color: #e5e7eb;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-
+    align-items: space-around;
+}
+li {
+    list-style: none;
 }
 #top-section-image{
     width:400px;
