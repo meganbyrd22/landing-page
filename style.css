@@ -21,11 +21,13 @@ header {
     font-size: 48px;
     font-weight: 800;
     color: #e5e7eb;
+    margin-left: 20px;
 }
 
 .hero-section-text {
     font-size: 18px;
     color: #e5e7eb;
+    margin-left: 20px;
 }
 button {
     background-color: #3882f6;
@@ -40,7 +42,8 @@ button {
     color: #f9faf8;
     font-weight: 800;
     display: flex;
-    padding: 16px;
+    margin-left: 20px;
+    margin-top: 20px;
 
 }
 .header-links {
@@ -54,11 +57,10 @@ ul{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    padding: 2px;
 }
 li {
     list-style: none;
-    padding: 12px;
+    padding:12px;
 }
 #top-section-image{
     width:400px;
