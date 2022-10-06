@@ -15,14 +15,17 @@ header {
     background-color:#1f2937;
     color: #f9faf8;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 .hero-section-title{
-
+    font-size: 48px;
+    font-weight: 800;
+    color: #e5e7eb;
 }
 
 .hero-section-text {
-    
+    font-size: 18px;
+    color: #e5e7eb;
 }
 button {
     background-color: #3882f6;
