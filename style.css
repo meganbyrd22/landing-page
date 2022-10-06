@@ -9,14 +9,20 @@ header {
     display: flex;
     flex: row;
     justify-content: space-between;
-    height: 200px;
+    height: 100px;
 }
-
 .hero-section {
     background-color:#1f2937;
     color: #f9faf8;
     display: flex;
     flex-direction: row;
+}
+.hero-section-title{
+
+}
+
+.hero-section-text {
+    
 }
 button {
     background-color: #3882f6;
@@ -54,9 +60,6 @@ li {
 #top-section-image{
     width:400px;
     height: 300px;
-}
-.top-section {
-
 }
 
 .section-1-header{
