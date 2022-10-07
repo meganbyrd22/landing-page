@@ -37,6 +37,12 @@ img {
     padding: 20px;
     margin-bottom: auto;
 }
+.hero-section-image{
+    display: flex;
+    align-self: flex-end;
+    margin-top: -300px;
+    width: 500;
+}
 button {
     background-color: #3882f6;
     color: white;
