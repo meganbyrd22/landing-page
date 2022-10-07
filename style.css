@@ -88,10 +88,13 @@ li {
 .section-1-header{
     font-size: 36px;
     font-weight: 800; 
+    display: flex;
+    justify-content: center;
 }
 
 .images{
-
+    display: flex;
+    justify-content: center;
 }
 .image-descriptions{
     font-size: small;
