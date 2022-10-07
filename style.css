@@ -118,7 +118,9 @@ li {
     font-size: 32px;
     font-weight: 700;
     background-color: #e5e7eb;
-    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 350px;
 }
 .section-3{
 
