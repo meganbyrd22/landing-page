@@ -112,11 +112,13 @@ li {
     font-weight: 100;
     font-style: italic;
     color: #1f2937; 
+    text-align: center;
 }
 .quote-signature{
     font-size: 32px;
     font-weight: 700;
     background-color: #e5e7eb;
+    text-align: right;
 }
 .section-3{
 
