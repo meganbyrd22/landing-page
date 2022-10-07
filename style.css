@@ -84,27 +84,28 @@ li {
     width:400px;
     height: 300px;
 }
-
-.section-1-header{
+.section-1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.section-1-header {
     font-size: 36px;
     font-weight: 800; 
     display: flex;
-    justify-content: center;
-    margin-top: 20px;
 }
 
 .images{
     display: flex;
-    justify-content: center;
 }
 .image-descriptions{
     font-size: small;
     color: gray;
     display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 300px;
+    justify-content: space-between;
+    gap: 350px;
 }
+
 .quote {
     background-color:#e5e7eb;
     font-size: 36px;
