@@ -138,10 +138,10 @@ li {
     height: 80px;
     width: 800px;
     border-radius: 3px;
-    padding: 20px;
+    padding: 16px;
 }
-#call-to-action {
-    font-weight: 800px;
+.call-to-action {
+    font-weight: bold;
     font-size: 24px;
 }
 
