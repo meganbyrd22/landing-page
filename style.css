@@ -125,7 +125,9 @@ li {
     margin-right: 350px;
 }
 .section-3{
-
+    display: flex;
+    justify-content: center;
+    margin: 40px;
 }
 .CTA-box {
     background-color: #3882f6;
