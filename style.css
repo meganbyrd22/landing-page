@@ -130,13 +130,7 @@ li {
     font-weight: 700;
     background-color: #e5e7eb;
     display: flex;
-    justify-content: flex-end;
-    margin-right: 350px;
-}
-.section-3{
-    display: flex;
-    justify-content: center;
-    margin: 40px;
+    margin-right: -600px;
 }
 .CTA-box {
     background-color: #3882f6;
