@@ -2,14 +2,15 @@ body {
     font-family:Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
-    margin: auto; }
-
+    margin: auto; 
+}
 header {
     background-color: #1f2937;
     color:#e5e7eb;
     display: flex;
     flex: row;
     justify-content: space-between;
+    align-content: center;
     height: 100px;
 }
 .hero-section {
@@ -23,15 +24,17 @@ header {
     font-size: 48px;
     font-weight: 800;
     color: #e5e7eb;
-    margin-left: 20px;
+    margin-left: 200px;
+    margin-bottom: 10px;
     width: 500px;
 }
 
 .hero-section-text {
     font-size: 18px;
     color: #e5e7eb;
-    margin-left: 30px;
+    margin-left: 200px;
     width: 300px;
+    margin-bottom: 20px;
 }
 img {
     margin-left:auto;
@@ -53,14 +56,14 @@ button {
     border-color: #3882f6;
     padding: 6px;
     width: 100px;
-    margin: 30px;
+    margin-left: 200px;
 }
 .header-logo {
     font-size: 24px;
     color: #f9faf8;
     font-weight: 800;
     display: flex;
-    margin-left: 20px;
+    margin-left: 200px;
     margin-top: 20px;
 
 }
