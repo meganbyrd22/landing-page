@@ -45,7 +45,7 @@ img {
     display: flex;
     align-self: flex-end;
     margin-top: -300px;
-    margin-right: 20px;
+    margin-right: 200px;
     width: 500;
 }
 button {
@@ -73,7 +73,7 @@ button {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    margin-right: 20px;
+    margin-right: 200px;
 }
 ul{
     display: flex;
