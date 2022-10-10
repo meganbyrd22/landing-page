@@ -156,8 +156,16 @@ li {
     margin-top: -40px;
     font-weight: 600;
 }
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    height: 60px;
+}
 .copyright-info{
+    display: flex;
     background-color: #1f2937;
     color: #e5e7eb;
     font-size: 12;
+    margin-top: 20px;
 }
