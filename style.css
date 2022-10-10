@@ -139,6 +139,7 @@ li {
     width: 800px;
     border-radius: 3px;
     padding: 16px;
+    margin: 20px;
 }
 .call-to-action {
     font-weight: bold;
