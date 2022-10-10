@@ -111,6 +111,8 @@ li {
 }
 .section-2 {
     background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
 }
 .quote {
     background-color:#e5e7eb;
@@ -118,7 +120,8 @@ li {
     font-weight: 100;
     font-style: italic;
     color: #1f2937; 
-    text-align: center;
+    text-align: left;
+    width: 800px;
 }
 .quote-signature{
     font-size: 32px;
