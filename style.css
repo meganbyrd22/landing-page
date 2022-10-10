@@ -134,8 +134,9 @@ li {
     color: #f9faf8;
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
     height: 80px;
-    width: 600px;
+    width: 800px;
     border-radius: 3px;
     padding: 20px;
 }
@@ -149,6 +150,7 @@ li {
     justify-content: center;
     margin-left:auto;
     border: solid white;
+    margin-top: -8px;
 }
 .copyright-info{
     background-color: #1f2937;
