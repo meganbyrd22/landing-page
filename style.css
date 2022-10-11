@@ -164,8 +164,12 @@ li {
     font-size: 24px;
     margin-bottom: 6px;
     margin-top: 12px;
+    margin-left: 40px;
 }
-
+.click-text {
+    display: flex;
+    margin-left: 40px;
+}
 .sign-up-2 {
     display: flex;
     justify-content: center;
@@ -177,6 +181,8 @@ li {
     border-color: white;
     width: 100px;
     padding: 6px;
+    margin-top: -40px;
+    margin-right: 40px;
 }
 footer {
     display: flex;
