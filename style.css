@@ -22,6 +22,9 @@ header {
     align-items: center;
     height: 350px;
 }
+.hero-left {
+    display: flex;
+}
 .hero-section-title{
     font-size: 48px;
     font-weight: 800;
