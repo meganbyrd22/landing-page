@@ -101,6 +101,7 @@ li {
     font-weight: 800; 
     display: flex;
     padding: 12px;
+    margin-top: 40px;
 }
 
 .images{
@@ -123,7 +124,7 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 40px;
+    margin: 70px;
 }
 .quote {
     background-color:#e5e7eb;
