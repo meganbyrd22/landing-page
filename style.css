@@ -20,13 +20,14 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 250px;
+    height: 300px;
 }
 .hero-left {
     display: flex;
     flex-direction: column;
     margin-right: auto;
     margin-left: 200px;
+    margin-bottom: 40px;
     height: 300px;
 }
 .hero-section-title{
@@ -47,8 +48,9 @@ header {
 .hero-section-image{
     display: flex;
     align-self: flex-end;
-    margin-top: -300px;
+    margin-top: -350px;
     margin-right: 200px;
+    margin-bottom: 40px;
 }
 .sign-up-1 {
     background-color: #3882f6;
