@@ -107,6 +107,9 @@ li {
     display: flex;
     gap: 20px;
 }
+.dog-pic {
+    border-radius: 25%;
+}
 .image-descriptions{
     font-size: small;
     color: gray;
