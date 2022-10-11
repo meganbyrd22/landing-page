@@ -112,7 +112,7 @@ li {
     color: gray;
     display: flex;
     justify-content: space-between;
-    gap: 350px;
+    gap: 140px;
 }
 .section-2 {
     background-color: #e5e7eb;
