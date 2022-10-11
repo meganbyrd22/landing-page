@@ -98,10 +98,12 @@ li {
     font-size: 36px;
     font-weight: 800; 
     display: flex;
+    padding: 12px;
 }
 
 .images{
     display: flex;
+    gap: 20px;
 }
 .image-descriptions{
     font-size: small;
