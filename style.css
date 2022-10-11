@@ -169,8 +169,14 @@ li {
 .sign-up-2 {
     display: flex;
     justify-content: center;
-    border: solid white;
-    font-weight: 600;
+    background-color: #3882f6;
+    color: white;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: white;
+    width: 100px;
+    padding: 6px;
+    margin: 12px;
 }
 footer {
     display: flex;
