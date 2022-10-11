@@ -101,7 +101,8 @@ li {
     font-weight: 800; 
     display: flex;
     padding: 12px;
-    margin-top: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .images{
