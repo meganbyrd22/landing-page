@@ -27,6 +27,7 @@ header {
     flex-direction: column;
     margin-right: auto;
     margin-left: 200px;
+    height: 300px;
 }
 .hero-section-title{
     font-size: 48px;
