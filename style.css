@@ -24,6 +24,9 @@ header {
 }
 .hero-left {
     display: flex;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: 200px;
 }
 .hero-section-title{
     font-size: 48px;
