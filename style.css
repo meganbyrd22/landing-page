@@ -124,7 +124,7 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 70px;
+    padding: 40px;
 }
 .quote {
     background-color:#e5e7eb;
